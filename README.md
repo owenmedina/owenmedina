@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @owenmedina
-- I’m interested in cloud and distributed systems 
+- 💻 I’m interested in cloud and distributed systems 
 - ⌨️ I’m looking to collaborate on any backend system for applications/services
 
 <!---
